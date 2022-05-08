@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello there, welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SanadAbuShama&show_icons=true&theme=gruvbox"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanadAbuShama&layout=compact"/>
+<hr/>
 
-<!--
-**rafat-darawshe/Rafat-Darawshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills:
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<hr/>
 
-Here are some ideas to get you started:
+### Contact Me:
+<a align="left" target="_blank" href="https://www.linkedin.com/in/rafat-darawshe-701712221/"><img style="width:35px" src="assets/linkedIn2.svg"/></a>
+<a align="left" href="mailto:rafatdarawshe2@gmail.com"><img style="width:35px" src="assets/email.svg"/></a>   
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Portfolio:
+<a align="left" href="https://github.com/rafat-darawshe"><img style="width:35px" src="assets/portfolio.svg" /></a>
